@@ -1,2 +1,8 @@
 # RedditResearcher
-Python Package for Reddit Researchers 
+Python Package intended for Reddit Researchers. Lets make collecting posts and comments from Reddit easier!
+
+# Planned Features
+
+
+
+
